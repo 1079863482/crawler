@@ -1,0 +1,3 @@
+scrat.py 用于爬取土图片
+rename.py 用于批量整理图片
+在name中写入想爬取的信息
